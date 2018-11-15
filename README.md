@@ -1,5 +1,5 @@
 # connEthics
-Welcome home!
+A Small Giant contractors company to support building Giant
 
 ## Contact me
 Contact me directly on [LinkedIn] via direct message or WhatsApp if you have my mobile.
