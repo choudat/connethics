@@ -15,7 +15,7 @@ If you want to keep in touch without specific topics, be pleased to subscribe to
 
 ## Why ConnEthics ?
 
-ConnEthics want to support sustainable activities which are playing in a deeply interconnected ecosystem:
+[ConnEthics] want to support sustainable activities which are playing in a deeply interconnected ecosystem:
 * Take advantage of your position within the value chain
 * Build new revenue stream from your partners
 * Define a feature and communication roadmap to support complex growth when dealing with multiface business model
@@ -23,4 +23,4 @@ ConnEthics want to support sustainable activities which are playing in a deeply 
 * Set a corporate mindset to run a virtuous circle supporting partners and customers growth
 
 [connethics]: http://connethics.fr
-[Subscribe]: (https://mailchi.mp/8d9a0599a69e/welcomeconnethics)
+[Subscribe]: https://mailchi.mp/8d9a0599a69e/welcomeconnethics
