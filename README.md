@@ -25,7 +25,6 @@ If you want to keep in touch without specific topics, be pleased to subscribe to
 
 [connethics]: http://connethics.fr
 
-{% include footer.html %}
 # a short blog ?
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
@@ -35,3 +34,5 @@ If you want to keep in touch without specific topics, be pleased to subscribe to
     {% endfor %}
   </ul>
 {% endfor %}
+
+{% include footer.html %}
