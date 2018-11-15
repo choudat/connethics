@@ -12,7 +12,7 @@ Fresh & new: You can also ask for quote from my [Malt] account.
 ## Subscribe! 
 If you want to keep in touch without specific topics, be pleased to subscribe to my non regular newsletter. I'm using this mailing list to share some taught and my actuality. If you have thoughts or feedback, please let me know. All replies to my monthly emails go directly to me.
 [Subscribe]
-
+{% include mailchimp.html %}
 ## Why ConnEthics ?
 
 [ConnEthics] want to support sustainable activities which are playing in a deeply interconnected ecosystem:
