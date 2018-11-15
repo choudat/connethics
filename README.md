@@ -24,3 +24,5 @@ If you want to keep in touch without specific topics, be pleased to subscribe to
 
 [connethics]: http://connethics.fr
 [Subscribe]: https://mailchi.mp/8d9a0599a69e/welcomeconnethics
+
+{% include footer.html %}
