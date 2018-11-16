@@ -20,5 +20,5 @@ Fresh & new: You can also ask for quote from my [Malt] account.
 My [blog2](./blog)
 [Blog]
 
-[Blog]: {{ site.baseurl }}{{ post.url }}
+[Blog]: {{ site.baseurl }}{{ post.url }}/blog
 
