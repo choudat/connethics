@@ -2,19 +2,13 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}</title>
-
     {% include meta.html %}
-
-
   </head>
 
   <body>
-
-    <div id="main" role="main" class="container">
+    <div>
       {{ content }}
     </div>
-
-
     {% include analytics.html %}
   </body>
 </html>
