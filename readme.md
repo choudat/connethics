@@ -1,6 +1,4 @@
 
-{% include header.html %}
-
 ** Contact me
 Contact me directly on [LinkedIn] via direct message or WhatsApp if you have my mobile.
 
@@ -14,8 +12,5 @@ Fresh & new: You can also ask for quote from my [Malt] account.
 
 ** Why ConnEthics ?
 {% include why-connethics.md %}
-
-
-{% include blog-link.html %}
 
 {% include footer.html %}
