@@ -1,7 +1,7 @@
 
 {% include header.html %}
 
-<h2>Contact me</h2>
+** Contact me
 Contact me directly on [LinkedIn] via direct message or WhatsApp if you have my mobile.
 
 Fresh & new: You can also ask for quote from my [Malt] account.
@@ -12,7 +12,7 @@ Fresh & new: You can also ask for quote from my [Malt] account.
 
 {% include mailchimp.html %} 
 
-<h2>Why ConnEthics ?</h2>
+** Why ConnEthics ?
 {% include why-connethics.md %}
 
 
