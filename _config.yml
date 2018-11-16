@@ -2,6 +2,6 @@ title: Welcome to ConnEthics
 description: Just a description for testing !
 theme: jekyll-theme-tactile
 show_downloads: false
-google_analytics:
+google_analytics: UA-92218690-3
 paginate: 5
 paginate_path: "/blog/page:num/"
