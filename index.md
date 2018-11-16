@@ -17,6 +17,8 @@ Fresh & new: You can also ask for quote from my [Malt] account.
 ## Why ConnEthics ?
 {% include why-connethics.md %}
 
-My [blog] (/blog)
-[blog base] {{ site.baseurl }}
+My [blog2](./blog)
+[Blog]
+
+[Blog]: {{ site.baseurl }}{{ post.url }}
 
