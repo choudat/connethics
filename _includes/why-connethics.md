@@ -5,3 +5,4 @@
 * Enlarge the Customer centric approach to the partner as chrun on partner could have massive impact
 * Set a corporate mindset to run a virtuous circle supporting partners and customers growth
 
+[connethics]: http://connethics.fr
