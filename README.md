@@ -28,4 +28,3 @@ If you want to keep in touch without specific topics, be pleased to subscribe to
 
 
 {% include footer.html %}
-
