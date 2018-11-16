@@ -19,3 +19,4 @@ Fresh & new: You can also ask for quote from my [Malt] account.
 ## Why ConnEthics ?
 {% include why-connethics.md %}
 
+{% include blog-links.html %}
