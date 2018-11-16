@@ -1,3 +1,7 @@
+---
+layout: default
+title:  "Welcome to ConnEthics!"
+---
 
 {% include header.html %}
 
