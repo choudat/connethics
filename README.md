@@ -1,6 +1,5 @@
+
 {% include header.html %}
-# connEthics
-A Small Giant contractors company to support building Giant
 
 ## Contact me
 Contact me directly on [LinkedIn] via direct message or WhatsApp if you have my mobile.
@@ -36,3 +35,4 @@ If you want to keep in touch without specific topics, be pleased to subscribe to
 {% endfor %}
 
 {% include footer.html %}
+
